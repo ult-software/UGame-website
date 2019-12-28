@@ -1,0 +1,67 @@
+body {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	margin : 0;
+	background-color: black;
+	opacity: 1;
+	color: white;
+}
+
+.header {
+	overflow: hidden;
+	background-color: black;
+	padding: 20px 10px;
+}
+
+.header a {
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  color: white;
+}
+
+.header-right {
+  float: right;
+  padding-top: 1%;
+}
+
+.header-right a {
+  border-radius: 4px;
+  border-style: solid;
+  
+}
+
+.header-right a:hover {
+  background-color: #ffffff;
+  color: black;
+}
+
+#headerLogo {
+	width: 10%;
+	border-style: none;
+}
+
+#bgVideo {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+	opacity: 0.6;
+	z-index: -1;
+}
+
+#centerInfo {
+	margin: auto;
+	padding: 5%;
+	width: 75%;
+	height: 75%;
+	text-align: center;
+	background-color: #242424;
+}
+
+#centerPicture {
+	margin: auto;
+	width: 75%;
+	height: 75%;
+}
