@@ -1,2 +1,15 @@
-New Features:
+[Pre-Alpha] 3.7.0.8
+
+[Required Files]
+= UGame.exe
+= IGDB.dll
+
++ New Features
 - Test.
++ Major Changes
+- Test.
++ Minor Changes
+- Test.
+- Test2.
++ Bug Fixes
+- Fixed test.
