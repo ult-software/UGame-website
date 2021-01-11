@@ -57,7 +57,15 @@ body {
 	width: 75%;
 	height: 75%;
 	text-align: center;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+#transparent {
+	margin: auto;
+	/*
 	background-color: #242424;
+	opacity: 75%;
+	*/
 }
 
 #centerPicture {
